@@ -1,16 +1,25 @@
-## Hi there 👋
+# Zalan Makany
 
-<!--
-**zalanmakany/zalanmakany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second year BSc Econometrics and Operations Research student at Tilburg University, passionate about applying mathematics and data analysis to solve complex problems.
 
-Here are some ideas to get you started:
+## Tech Stack & Tools
+* **Programming & Data:** Python, R, Stata, Excel (VBA)
+* **Writing & Reporting:** LaTeX, Word
+* **Interests:** All things mathematics 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+* Get ready for my second year at Tilburg University and diving into Combinatorial Optimisation.
+* Exploring implementations of optimization over smooth manifolds.
+* Building and expanding my personal website.
+* Getting better at using Git
+
+## Outside of Code
+When I'm not studying or coding, I stay active in a few different arenas:
+* Competing in and teaching Go (1 Dan).
+* Playing competitive volleyball.
+* Learning bridge.
+
+---
+**Links:** 
+* **Projects:** [zalan.nl](https://zalan.nl)
+* **Contact** [LinkedIn](https://www.linkedin.com/in/zalan-makany)
