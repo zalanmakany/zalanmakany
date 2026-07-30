@@ -3,7 +3,7 @@
 I am a second year BSc Econometrics and Operations Research student at Tilburg University, passionate about applying mathematics and data analysis to solve complex problems.
 
 ## Tech Stack & Tools
-* **Programming & Data:** Python, R, Stata, Excel (VBA)
+* **Programming & Data:** Python, C#, R, Stata, Excel (VBA)
 * **Writing & Reporting:** LaTeX, Word
 * **Interests:** All things mathematics 
 
