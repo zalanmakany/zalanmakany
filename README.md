@@ -9,7 +9,7 @@ I am a second year BSc Econometrics and Operations Research student at Tilburg U
 
 ## Current Focus
 * Getting ready for my second year at Tilburg University and diving into Combinatorial Optimisation.
-* Exploring implementations of optimization over smooth manifolds.
+* Looking at AI safety
 * Building and expanding my personal website.
 * Getting better at using Git
 
